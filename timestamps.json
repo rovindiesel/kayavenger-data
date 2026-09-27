@@ -1,0 +1,42 @@
+{
+  "https://kick.com/asmongold/videos/01a0d475-0550-7a3e-a48e-071ca412184d": {
+    "title": "September 24, 2026",
+    "segments": [
+      {
+        "topic": "Hasan",
+        "start": "03:02:30",
+        "end": "03:04:42"
+      },
+      {
+        "topic": "Hasan",
+        "start": "04:22:02",
+        "end": "04:46:23"
+      },
+      {
+        "topic": "Other Streamers",
+        "start": "01:16:33",
+        "end": "01:36:55"
+      }
+    ]
+  },
+  "https://kick.com/asmongold/videos/01a0d99c-a588-7111-be2a-59e6f78bae40": {
+    "title": "September 25, 2026",
+    "segments": [
+      {
+        "topic": "Other Streamers",
+        "start": "01:43:34",
+        "end": "02:09:41"
+      }
+    ]
+  },
+  "https://kick.com/asmongold/videos/01a0dec6-2638-7b70-8fb2-e1a1dbb1bfb3": {
+    "title": "September 26, 2026",
+    "segments": [
+      {
+        "topic": "Other Streamers",
+        "start": "01:18:00",
+        "end": "02:23:44"
+      }
+    ]
+  }
+}
