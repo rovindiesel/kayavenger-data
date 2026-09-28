@@ -38,5 +38,35 @@
         "end": "02:23:44"
       }
     ]
+  },
+  "https://kick.com/asmongold/videos/01a0e3f1-ecf0-7fc6-b219-1432f41fac77": {
+    "title": "September 27, 2026",
+    "segments": [
+      {
+        "topic": "Hasan",
+        "start": "00:20:11",
+        "end": "00:23:30"
+      },
+      {
+        "topic": "Other Streamers",
+        "start": "00:23:31",
+        "end": "00:29:14"
+      },
+      {
+        "topic": "Hasan",
+        "start": "03:02:28",
+        "end": "03:12:50"
+      }
+    ]
+  },
+  "https://kick.com/asmongold/videos/01a0e915-89d0-7322-9467-56202e7d2dc0": {
+    "title": "September 28, 2026",
+    "segments": [
+      {
+        "topic": "Hasan",
+        "start": "03:08:30",
+        "end": "03:24:08"
+      }
+    ]
   }
 }
