@@ -66,6 +66,26 @@
         "topic": "Hasan",
         "start": "03:08:30",
         "end": "03:24:08"
+      },
+      {
+        "topic": "Other Streamers",
+        "start": "02:20:09",
+        "end": "02:48:30"
+      }
+    ]
+  },
+  "https://kick.com/asmongold/videos/01a0ee3f-0e68-7286-b805-89815f94c2c4": {
+    "title": "September 29, 2026",
+    "segments": [
+      {
+        "topic": "Hasan",
+        "start": "02:17:30",
+        "end": "02:36:24"
+      },
+      {
+        "topic": "Hasan",
+        "start": "03:00:38",
+        "end": "03:02:30"
       }
     ]
   }
