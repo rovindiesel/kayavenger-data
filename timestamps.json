@@ -88,5 +88,20 @@
         "end": "03:02:30"
       }
     ]
+  },
+  "https://kick.com/asmongold/videos/01a0f361-0950-7896-943e-e616f4a3108f": {
+    "title": "September 30, 2026",
+    "segments": [
+      {
+        "topic": "Hasan",
+        "start": "03:20:27",
+        "end": "03:34:46"
+      },
+      {
+        "topic": "Hasan",
+        "start": "04:12:12",
+        "end": "04:16:05"
+      }
+    ]
   }
 }
